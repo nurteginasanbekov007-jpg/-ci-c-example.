@@ -1,1 +1,1 @@
-# -ci-c-example.
+ print("Hello, DevOps!")
